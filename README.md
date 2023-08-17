@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # UFPMP-Det: Toward Accurate and Efficient Object Detection on Drone Imagery
 
 The repo is the official implementation of  UFPMP-Det.
@@ -345,7 +344,9 @@ If you find GFocal useful in your research, please consider citing:
 @article{li2020gfl,
   title={Generalized focal loss: Learning qualified and distributed bounding boxes for dense object detection},
   author={Li, Xiang and Wang, Wenhai and Wu, Lijun and Chen, Shuo and Hu, Xiaolin and Li, Jun and Tang, Jinhui and Yang, Jian},
-  journal={arXiv preprint arXiv:2006.04388},
+  journal={arXiv preprint arXiv:2006.04388
+        
+        },
   year={2020}
 }
 ```
@@ -354,10 +355,11 @@ If you find GFocal useful in your research, please consider citing:
 @article{li2020gflv2,
   title={Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection},
   author={Li, Xiang and Wang, Wenhai and Hu, Xiaolin and Li, Jun and Tang, Jinhui and Yang, Jian},
-  journal={arXiv preprint arXiv:2011.12885},
+  journal={arXiv preprint arXiv:2011.12885
+        
+        },
   year={2020}
 }
 ```
 
->>>>>>> origin/master
 
